@@ -1,6 +1,6 @@
 ### Eaee!🤟<br>
 Me chamo Matheus Soler e sou um Desenvolvedor Front-End! <br>
-Sempre buscando aprender algo novo todos os dias e evoluir cada vez mais no universo da programação!💪 <br>
+Sempre buscando aprender algo novo todos os dias e evoluir cada vez mais no universo da tecnologia!💪 <br>
 
 📚Atualmente estudando React Native📱 <br><br>
 
@@ -12,8 +12,8 @@ Sempre buscando aprender algo novo todos os dias e evoluir cada vez mais no univ
 
 <div align="center">
   <a href="https://github.com/Matheussoler">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheussoler&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheussoler&langs_count=5&theme=tokyonight"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Matheussoler&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheussoler&langs_count=5&theme=tokyonight"/>
 </div>
 
   <br><br>
