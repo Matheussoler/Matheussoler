@@ -1,6 +1,6 @@
-### Eaee!🤟<br>
+### Eaee!🤟🏼<br>
 Me chamo Matheus Soler e sou um Desenvolvedor Front-End! <br>
-Sempre buscando aprender algo novo todos os dias e evoluir cada vez mais no universo da tecnologia!💪 <br>
+Sempre buscando aprender algo novo todos os dias e evoluir cada vez mais no universo da tecnologia!💪🏼 <br>
 
 📚Atualmente estudando React Native📱 <br><br>
 
