@@ -14,7 +14,7 @@ Sempre buscando aprender algo novo todos os dias e evoluir cada vez mais no univ
 <div align="center">
   <a href="https://github.com/Matheussoler">
   <img src="https://github-readme-stats.vercel.app/api?username=Matheussoler&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheussoler&langs_count=5&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheussoler&langs_count=6&theme=tokyonight"/> </a>
 </div>
 
  <br><br>
